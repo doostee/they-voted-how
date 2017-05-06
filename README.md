@@ -20,6 +20,6 @@ Initially planned to run it on Google App Engine.
 ## Before Hackathon
 * Need to get basic project setup.
 * Get District Mapper API with correct data sets.
-* Find source of issues and vote counts. (I guess for Houston this i sin the City Council meeting minutes)
+* Find source of issues and vote counts. (I guess for Houston this is in the City Council meeting minutes)
 * Figure out how to parse voting data 
 * Get build system up.
